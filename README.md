@@ -1,4 +1,5 @@
 # vue-translation
+![image](https://github.com/Lijianxiong8/vue-translation/blob/master/gif/aaa.gif)
 
 ## Project setup
 ```
